@@ -1,0 +1,24 @@
+
+---
+
+### 1. `var`
+- **Scope**: Global or function scope (depending on where it's declared).
+- **Accessibility**: Accessible from anywhere within the scope it was declared.
+- **Value Assignment**: Values **can** be changed.
+
+---
+
+### 2. `let`
+- **Scope**: Block scope (only within the block, statement, or expression where it's defined).
+- **Accessibility**: Accessible only within the block it's declared.
+- **Value Assignment**: Values **can** be changed.
+
+---
+
+### 3. `const`
+- **Scope**: Block scope (only within the block, statement, or expression where it's defined).
+- **Accessibility**: Accessible only within the block it's declared.
+- **Value Assignment**: Values **cannot** be changed. However, note that if the assigned value is an object or array, the contents of the object/array can still be modified (but the reference to the object/array cannot be changed).
+
+---
+
