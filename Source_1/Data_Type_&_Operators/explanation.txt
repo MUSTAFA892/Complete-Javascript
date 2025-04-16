@@ -1,0 +1,19 @@
+
+
+### 🔹 These are **JavaScript Data Types**:
+1. **Number** – e.g., `42`, `3.14`
+2. **String** – e.g., `'hello'`, `"world"`
+3. **Boolean** – `true` or `false`
+4. **Null** – represents intentional absence of value
+5. **Undefined** – a variable declared but not assigned
+6. **Object** – complex data structure like `{}`, arrays, functions, etc.
+
+---
+
+### 🔹 JavaScript **Operators** are different. Here are some types of operators:
+1. **Arithmetic Operators** – `+`, `-`, `*`, `/`, `%`, `**`
+2. **Assignment Operators** – `=`, `+=`, `-=`, `*=`, etc.
+3. **Comparison Operators** – `==`, `===`, `!=`, `>`, `<`, etc.
+4. **Logical Operators** – `&&`, `||`, `!`
+5. **Bitwise Operators** – `&`, `|`, `^`, `~`, `<<`, `>>`
+6. **Type Operators** – `typeof`, `instanceof`
